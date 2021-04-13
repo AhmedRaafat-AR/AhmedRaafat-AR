@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhmedRaafat-CC
-- 👀 I’m interested in Dart, Flutter, AWS, BlockChain
+- 👀 I’m interested in AWS, Flutter, BlockChain
 - 🌱 I’m currently learning AWS DevOps Engineer Track
 - 💞️ I’m looking to collaborate on Cross-Platform App
 - 📫 How to reach me https://github.com/AhmedRaafat-CC
