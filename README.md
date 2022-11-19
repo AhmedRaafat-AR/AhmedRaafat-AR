@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedRaafat-AR
-- 👀 I’m interested in AWS, Flutter, BlockChain
-- 🌱 I’m currently learning AWS DevOps Engineer Track
+- 👀 I’m interested in Cloud Native, Flutter, BlockChain
+- 🌱 I’m currently learning Cloud Native Application Architecture
 - 💞️ I’m looking to collaborate on Cross-Platform App
 - 📫 How to reach me https://github.com/AhmedRaafat-AR
 
